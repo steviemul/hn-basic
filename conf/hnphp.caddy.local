@@ -1,0 +1,17 @@
+https://localhost {
+  
+  tls self_signed
+
+  gzip {
+    level 9
+  }
+
+  proxy / localhost:81 {
+    transparent
+  }
+}
+
+http://localhost {
+  redir https://localhost
+}
+
