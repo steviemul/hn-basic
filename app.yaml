@@ -6,6 +6,12 @@ handlers:
   script: index.php
   secure: always
 
+- url: /info
+  script: php/info.php
+
+- url: /cachetest
+  script: php/cache_test.php
+  
 - url: /top/.*
   script: index.php
   secure: always
@@ -29,7 +35,7 @@ handlers:
 - url: /item/.*
   script: index.php
   secure: always
-  
+
 - url: /api/.*
   script: index.php
 
