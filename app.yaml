@@ -1,0 +1,54 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: index.php
+  secure: always
+
+- url: /top/.*
+  script: index.php
+
+- url: /new/.*
+  script: index.php
+
+- url: /ask/.*
+  script: index.php
+
+- url: /show/.*
+  script: index.php
+
+- url: /show/.*
+  script: index.php
+
+- url: /jobs/.*
+  script: index.php
+
+- url: /item/.*
+  script: index.php
+
+- url: /api/.*
+  script: index.php
+
+- url: /dist
+  static_dir: dist
+
+- url: /sw.js
+  static_files: sw.js
+  upload: sw.js
+
+- url: /manifest.json
+  static_files: manifest.json
+  upload: manifest.json
+
+- url: /images
+  static_dir: images
+
+- url: /js
+  static_dir: js 
+
+- url: /webcomponents
+  static_dir: webcomponents
+
+skip_files:
+- node_modules/

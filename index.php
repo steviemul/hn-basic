@@ -2,7 +2,7 @@
   require_once("php/responder.php");
   require_once("php/utils.php");
 
-  $OUTPUT_DIR = "/home/smulrenn/dev/git/hnphp/data";
+  $OUTPUT_DIR = getcwd()."/data";
 
   $responder = new Responder("https://hacker-news.firebaseio.com/v0", $OUTPUT_DIR, 30);
 

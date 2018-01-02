@@ -4,16 +4,16 @@ require_once("results.php");
 
 class HN {
 
-  const POST_URLS = [
+  private $baseUrl = "";
+  private $outputDir = "";
+  
+  private $POST_URLS = [
     "/top" => "/topstories.json",
     "/new" => "/newstories.json",
     "/ask" => "/askstories.json",
     "/show" => "/showstories.json",
     "/jobs" => "/jobstories.json"
   ];
-
-  private $baseUrl = "";
-  private $outputDir = "";
 
   function __construct($baseUrl, $outputDir) {
     $this->baseUrl = $baseUrl;
@@ -22,14 +22,14 @@ class HN {
 
   function getPosts($path) {
 
-    $stem = HN::POST_URLS[$path];
+    $stem = $this->POST_URLS[$path];
     $filePath = $this->outputDir.$stem;
 
     if (file_exists($filePath)) {
       $response = file_get_contents($filePath);
     }
     else {
-      $url = $this->baseUrl.HN::POST_URLS[$path];
+      $url = $this->baseUrl.$this->POST_URLS[$path];
 
       $response = file_get_contents($url);
 
