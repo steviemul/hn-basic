@@ -1,0 +1,1 @@
+{"by":"xstartup","descendants":1,"id":16051493,"kids":[16053121],"score":2,"text":"I simply want to store&#x2F;delete&#x2F;retrieve an entity by its key only, where value will be UUID+timestamp. Performance is not an issue, sub 5 minute op time will work just fine.","time":1514896329,"title":"Ask HN: What's cheapest way of storing 100 billion entities daily?","type":"story"}
