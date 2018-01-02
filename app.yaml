@@ -8,25 +8,28 @@ handlers:
 
 - url: /top/.*
   script: index.php
+  secure: always
 
 - url: /new/.*
   script: index.php
+  secure: always
 
 - url: /ask/.*
   script: index.php
+  secure: always
 
 - url: /show/.*
   script: index.php
-
-- url: /show/.*
-  script: index.php
+  secure: always
 
 - url: /jobs/.*
   script: index.php
+  secure: always
 
 - url: /item/.*
   script: index.php
-
+  secure: always
+  
 - url: /api/.*
   script: index.php
 
