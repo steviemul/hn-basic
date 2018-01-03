@@ -1,0 +1,305 @@
+{
+  "items": [{
+    "by": "sea6ear",
+    "descendants": 255,
+    "id": 16057449,
+    "kids": [16057750, 16058711, 16057716, 16058066, 16058155, 16057754, 16060111, 16058729, 16059878, 16058376, 16058201, 16059847, 16057840, 16058516, 16058253, 16058580, 16058649, 16058124, 16058523, 16058249, 16059561, 16058695, 16059215, 16058654, 16058640, 16058724, 16058638, 16058953, 16058623, 16058544, 16058308, 16059587, 16058345, 16058296, 16058440, 16058713, 16058175, 16058073, 16059589, 16057998, 16060139, 16058059],
+    "score": 427,
+    "time": 1514941355,
+    "title": "NSA\u2019s top talent is leaving because of low pay, flagging morale, unpopular reorg",
+    "type": "story",
+    "url": "https:\/\/www.washingtonpost.com\/world\/national-security\/the-nsas-top-talent-is-leaving-because-of-low-pay-and-battered-morale\/2018\/01\/02\/ff19f0c6-ec04-11e7-9f92-10a2203f6c8d_story.html?utm_term=.0388eaf826c3"
+  }, {
+    "by": "sohkamyung",
+    "descendants": 15,
+    "id": 16059602,
+    "kids": [16059825, 16060031, 16060121, 16060081, 16059889, 16059835, 16059955, 16059999, 16059803],
+    "score": 38,
+    "time": 1514970969,
+    "title": "Why Sony\u2019s Trinitron Tubes Were the Best",
+    "type": "story",
+    "url": "https:\/\/hackaday.com\/2018\/01\/03\/why-sonys-trinitron-tubes-were-the-best\/"
+  }, {
+    "by": "0x0",
+    "descendants": 8,
+    "id": 16059402,
+    "kids": [16059966, 16060059, 16059990, 16059823, 16059985],
+    "score": 56,
+    "time": 1514967954,
+    "title": "The \u2018app\u2019 you can\u2019t trash: how SIP is broken in High Sierra",
+    "type": "story",
+    "url": "https:\/\/eclecticlight.co\/2018\/01\/02\/the-app-you-cant-trash-how-sip-is-broken-in-high-sierra\/"
+  }, {
+    "by": "derek",
+    "descendants": 42,
+    "id": 16058920,
+    "kids": [16059635, 16059413, 16059440, 16059663, 16059442, 16059618, 16059923, 16059279],
+    "score": 169,
+    "time": 1514960273,
+    "title": "We saw some really bad Intel CPU bugs in 2015, and should expect to see more",
+    "type": "story",
+    "url": "https:\/\/danluu.com\/cpu-bugs\/"
+  }, {
+    "by": "uptown",
+    "descendants": 253,
+    "id": 16056156,
+    "kids": [16056982, 16056629, 16056314, 16056308, 16056359, 16056267, 16056364, 16056312, 16057051, 16056448, 16056920, 16056247, 16056446, 16056240, 16058810, 16056625, 16058838, 16056617, 16058669, 16058050, 16057218, 16057662, 16057656, 16056520, 16057669, 16056588, 16057323, 16057759, 16056415],
+    "score": 424,
+    "time": 1514930336,
+    "title": "Spotify hit with $1.6B copyright lawsuit",
+    "type": "story",
+    "url": "https:\/\/www.reuters.com\/article\/us-spotify-lawsuit\/spotify-hit-with-1-6-billion-copyright-lawsuit-idUSKBN1ER1RX"
+  }, {
+    "by": "privong",
+    "descendants": 67,
+    "id": 16055313,
+    "kids": [16055759, 16056545, 16059957, 16057952, 16059811, 16057614, 16056794, 16058448, 16057273, 16056155, 16057280, 16055721, 16055688, 16056759, 16056424, 16058053, 16056066, 16057438, 16055780, 16057365, 16057975, 16057996, 16057850, 16056610],
+    "score": 214,
+    "time": 1514925066,
+    "title": "A swarm of submarine drones will scour the depths for MH370",
+    "type": "story",
+    "url": "https:\/\/www.economist.com\/news\/science-and-technology\/21733399-swarm-submarine-drones-will-scour-depths-plane-fantastical-ship"
+  }, {
+    "by": "jpelecanos",
+    "descendants": 1,
+    "id": 16058966,
+    "kids": [16059495],
+    "score": 22,
+    "time": 1514960944,
+    "title": "The TX-2 Computer and Sketchpad (2012) [pdf]",
+    "type": "story",
+    "url": "https:\/\/www.ll.mit.edu\/publications\/labnotes\/LookingBack_19_1.pdf"
+  }, {
+    "by": "collapse",
+    "descendants": 0,
+    "id": 16058803,
+    "kids": [16060103],
+    "score": 28,
+    "time": 1514958610,
+    "title": "Casting in ATS",
+    "type": "story",
+    "url": "https:\/\/bluishcoder.co.nz\/2018\/01\/02\/casting-in-ats.html"
+  }, {
+    "by": "yeukhon",
+    "descendants": 118,
+    "id": 16059257,
+    "kids": [16059715, 16059574, 16059560, 16059698, 16059448, 16059566, 16059472, 16059643, 16059827, 16059787, 16059773, 16059628, 16059573, 16059600, 16059669, 16059751, 16059626, 16059431, 16059571, 16059450],
+    "score": 92,
+    "time": 1514965120,
+    "title": "Why the U.S. Spends So Much More Than Other Nations on Health Care",
+    "type": "story",
+    "url": "https:\/\/www.nytimes.com\/2018\/01\/02\/upshot\/us-health-care-expensive-country-comparison.html"
+  }, {
+    "by": "kposehn",
+    "descendants": 2,
+    "id": 16058147,
+    "kids": [16059613, 16059594],
+    "score": 46,
+    "time": 1514950802,
+    "title": "The Curious Life of an Extra",
+    "type": "story",
+    "url": "https:\/\/www.theatlantic.com\/entertainment\/archive\/2017\/09\/my-life-as-an-extra\/541212\/?utm_source=atlfb&amp;single_page=true"
+  }, {
+    "by": "ot",
+    "descendants": 26,
+    "id": 16056669,
+    "kids": [16059392, 16058894, 16059208, 16059313, 16059094],
+    "score": 104,
+    "time": 1514933807,
+    "title": "Genetic Study Supports Carbohydrate-Insulin Model of Obesity",
+    "type": "story",
+    "url": "https:\/\/medium.com\/@davidludwigmd\/genetic-study-supports-carbohydrate-insulin-model-of-obesity-327d84be6d2b"
+  }, {
+    "by": "pyxl",
+    "descendants": 31,
+    "id": 16057077,
+    "kids": [16060109, 16059041, 16059610, 16059899, 16059151],
+    "score": 94,
+    "time": 1514937371,
+    "title": "How the \u00c5 came to be",
+    "type": "story",
+    "url": "https:\/\/medium.com\/@frodefrodefrode\/put-a-ring-on-it-part-i-18531066c896"
+  }, {
+    "by": "sethbannon",
+    "descendants": 176,
+    "id": 16057954,
+    "kids": [16058331, 16058133, 16058334, 16058899, 16058318, 16058214, 16058292, 16058549, 16059058, 16058626, 16058820, 16058574, 16058181, 16058032, 16058261, 16058908, 16058114],
+    "score": 161,
+    "time": 1514948665,
+    "title": "As Flow of Foreign Students Wanes, U.S. Universities Feel the Sting",
+    "type": "story",
+    "url": "https:\/\/mobile.nytimes.com\/2018\/01\/02\/us\/international-enrollment-drop.html"
+  }, {
+    "by": "ingve",
+    "descendants": 50,
+    "id": 16056271,
+    "kids": [16056925, 16058422, 16058477, 16059884, 16057350, 16059339, 16056606, 16056586, 16056815, 16056604, 16056787, 16057214, 16056544, 16056825],
+    "score": 82,
+    "time": 1514931089,
+    "title": "Fix All Conflicts: Easy-To-use CUI for Fixing Git Conflicts",
+    "type": "story",
+    "url": "https:\/\/github.com\/mkchoi212\/fac#readme"
+  }, {
+    "by": "Tomte",
+    "descendants": 29,
+    "id": 16055823,
+    "kids": [16057790, 16057153, 16058085, 16057062, 16058221, 16057081, 16057632],
+    "score": 99,
+    "time": 1514928285,
+    "title": "The Legacy of the Mississippi Delta Chinese",
+    "type": "story",
+    "url": "http:\/\/www.npr.org\/2017\/03\/18\/519017287\/the-legacy-of-the-mississippi-delta-chinese"
+  }, {
+    "by": "lainon",
+    "descendants": 0,
+    "id": 16059601,
+    "score": 6,
+    "time": 1514970962,
+    "title": "Complexity Theory, Game Theory, and Economics",
+    "type": "story",
+    "url": "https:\/\/arxiv.org\/abs\/1801.00734"
+  }, {
+    "by": "fanf2",
+    "descendants": 34,
+    "id": 16052451,
+    "kids": [16052862, 16052636, 16052972, 16053245, 16052959],
+    "score": 98,
+    "time": 1514907783,
+    "title": "Linux page table isolation is not needed on AMD processors",
+    "type": "story",
+    "url": "https:\/\/lkml.org\/lkml\/2017\/12\/27\/2"
+  }, {
+    "by": "iamben",
+    "descendants": 11,
+    "id": 16055663,
+    "kids": [16059007, 16057651, 16057010, 16056975],
+    "score": 101,
+    "time": 1514927384,
+    "title": "The Eccentric, Relentless Deal-Making of Masayoshi Son",
+    "type": "story",
+    "url": "https:\/\/www.bloomberg.com\/news\/features\/2018-01-02\/inside-the-eccentric-unstoppable-deal-making-of-masayoshi-son"
+  }, {
+    "by": "lfischer",
+    "descendants": 181,
+    "id": 16055027,
+    "kids": [16055681, 16055562, 16056163, 16055612, 16056497, 16055622, 16055509, 16055698, 16059096, 16055658, 16058984, 16057696, 16056179, 16055516, 16059562, 16055546, 16056082, 16056921],
+    "score": 266,
+    "time": 1514923262,
+    "title": "Using Java 9 Modularization to Ship Zero-Dependency Apps",
+    "type": "story",
+    "url": "https:\/\/steveperkins.com\/using-java-9-modularization-to-ship-zero-dependency-native-apps\/"
+  }, {
+    "by": "morisy",
+    "descendants": 2,
+    "id": 16053348,
+    "kids": [16053443],
+    "score": 18,
+    "time": 1514913579,
+    "title": "Mapzen shutting down",
+    "type": "story",
+    "url": "https:\/\/mapzen.com\/blog\/shutdown\/"
+  }, {
+    "by": "whoishiring",
+    "descendants": 134,
+    "id": 16052538,
+    "kids": [16053455, 16053468, 16053453, 16053281, 16053459, 16053398, 16053264, 16053403, 16053460, 16053401, 16053402, 16053381, 16053407, 16053409, 16053393, 16053371, 16053386, 16053370, 16052764, 16053039, 16053422, 16053356, 16053345, 16052821, 16052748, 16053335, 16053352, 16053323, 16052664, 16053226, 16053299, 16053374, 16053305, 16053115, 16052835, 16053126, 16052947, 16053257, 16052586, 16052861, 16053231, 16052876, 16053220, 16053179, 16052872, 16053187, 16052992, 16052719, 16053295, 16052852, 16052958, 16053171, 16052753, 16052871, 16053156, 16052976, 16052898, 16053102, 16052885, 16053097, 16052890, 16053186, 16053067, 16053184, 16053218, 16053055, 16053128, 16052603, 16053296, 16053087, 16053065, 16052990, 16052999, 16053174, 16053246, 16052982, 16052763, 16052607, 16052927, 16052941, 16052954, 16052914, 16052919, 16053052, 16052557, 16052806, 16052856, 16052968, 16052583, 16052804, 16052823, 16052788, 16052708, 16052702, 16052920, 16052653, 16052888, 16052807, 16052853, 16052647, 16052605, 16052816, 16052673, 16052593, 16052543, 16053026, 16052781, 16052967, 16053078, 16052905, 16052867, 16052640, 16052993, 16052590, 16052574, 16052560, 16053310, 16052642, 16052762, 16052563],
+    "score": 99,
+    "text": "Please lead with the location of the position and include the keywords\nREMOTE, INTERNS and&#x2F;or VISA when the corresponding sort of candidate is welcome.\nWhen remote work is not an option, include ONSITE. If it isn&#x27;t a household name,\nplease explain what your company does.<p>Submitters: please only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company please.<p>Readers: please only email submitters if you personally are interested in the\njob\u2014no recruiters or sales calls.<p>You can also use kristopolous&#x27; console script to search the thread:\n<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10313519\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=10313519<\/a>.<p>Note for this month: please don&#x27;t go through these posts and downvote them in bulk. Users who do that eventually lose downvoting rights.",
+    "time": 1514908508,
+    "title": "Ask HN: Who is hiring? (January 2018)",
+    "type": "story"
+  }, {
+    "by": "elmar",
+    "descendants": 35,
+    "id": 16058819,
+    "kids": [16058956, 16059111, 16059087, 16058905, 16059389, 16059294, 16058907, 16059242, 16059765, 16059012],
+    "score": 58,
+    "time": 1514958803,
+    "title": "The Criminal Underworld Is Dropping Bitcoin for Monero",
+    "type": "story",
+    "url": "https:\/\/www.bloomberg.com\/news\/articles\/2018-01-02\/criminal-underworld-is-dropping-bitcoin-for-another-currency"
+  }, {
+    "by": "sangwen",
+    "id": 16059492,
+    "score": 1,
+    "time": 1514969446,
+    "title": "Smarking (YC W15) Is Hiring Sr.PM in SF",
+    "type": "job",
+    "url": "https:\/\/jobs.lever.co\/smarking\/e75f2eb0-c227-47c8-8ceb-9ceb1bb907b7"
+  }, {
+    "by": "based2",
+    "descendants": 9,
+    "id": 16056135,
+    "kids": [16057276, 16056865, 16056623, 16058567],
+    "score": 58,
+    "time": 1514930216,
+    "title": "Chisel: Constructing Hardware in a Scala Embedded Language",
+    "type": "story",
+    "url": "https:\/\/chisel.eecs.berkeley.edu\/"
+  }, {
+    "by": "rich_harris",
+    "descendants": 45,
+    "id": 16052558,
+    "kids": [16052878, 16053029, 16053423, 16052679, 16053153, 16053178, 16053399, 16052896, 16053328, 16053243, 16053139, 16052961, 16052894, 16053016, 16053011],
+    "score": 150,
+    "time": 1514908628,
+    "title": "Show HN: Sapper.js \u2013 towards a better web app framework",
+    "type": "story",
+    "url": "https:\/\/svelte.technology\/blog\/sapper-towards-the-ideal-web-app-framework"
+  }, {
+    "by": "uptown",
+    "descendants": 141,
+    "id": 16055037,
+    "kids": [16055806, 16055152, 16055270, 16055373, 16055343, 16055564, 16055425, 16056048, 16059633, 16057529, 16056187, 16056037, 16059813, 16057119, 16058931, 16056986, 16056878, 16057633, 16057885],
+    "score": 240,
+    "time": 1514923324,
+    "title": "Apple acquires Buddybuild",
+    "type": "story",
+    "url": "https:\/\/www.buddybuild.com\/blog\/buddybuild-is-now-part-of-apple"
+  }, {
+    "by": "kposehn",
+    "descendants": 21,
+    "id": 16049954,
+    "kids": [16052728, 16052635, 16053391, 16052681, 16052578, 16053266, 16053215, 16052747, 16052711],
+    "score": 73,
+    "time": 1514868861,
+    "title": "Young Student Secretly Photographs People with Hidden Spy Cam in the 1890s",
+    "type": "story",
+    "url": "https:\/\/mymodernmet.com\/carl-stormer-hidden-camera-photography\/"
+  }, {
+    "by": "tareqak",
+    "descendants": 76,
+    "id": 16055208,
+    "kids": [16055936, 16060145, 16057941, 16059904, 16055747, 16056648, 16056045, 16055884, 16056195, 16055215],
+    "score": 227,
+    "time": 1514924449,
+    "title": "After Equifax breach, anger but no action in Congress",
+    "type": "story",
+    "url": "https:\/\/www.politico.com\/story\/2018\/01\/01\/equifax-data-breach-congress-action-319631"
+  }, {
+    "by": "chowyuncat",
+    "descendants": 19,
+    "id": 16057288,
+    "kids": [16057460, 16058678, 16057627, 16058260, 16059269, 16058662],
+    "score": 131,
+    "time": 1514939433,
+    "title": "Initial Performance Benchmarks of Linux's X86 Security Changes",
+    "type": "story",
+    "url": "https:\/\/www.phoronix.com\/scan.php?page=article&item=linux-415-x86pti&num=1"
+  }, {
+    "by": "lainon",
+    "descendants": 29,
+    "id": 16051078,
+    "kids": [16059260, 16054195, 16055808, 16054436, 16055778, 16056914, 16054069, 16054258, 16057592, 16057734, 16053695],
+    "score": 202,
+    "time": 1514889159,
+    "title": "Pepper's Cone: An Inexpensive Do-It-Yourself 3D Display",
+    "type": "story",
+    "url": "https:\/\/roxanneluo.github.io\/PeppersCone.html"
+  }],
+  "pagingInfo": {
+    "pageNum": 1,
+    "pages": 17,
+    "url": "\/api\/top\/1"
+  }
+}
